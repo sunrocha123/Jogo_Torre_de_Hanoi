@@ -1,0 +1,2 @@
+# Jogo_Torre_de_Hanoi
+É um "quebra-cabeça" que consiste em uma base contendo três pinos, em um dos quais são dispostos alguns discos uns sobre os outros, em ordem crescente de diâmetro, de cima para baixo. O objetivo do jogo é deslocar todos os discos de um pilar para outro qualquer, movendo um de cada vez. Um ponto de atenção é que, um disco de diâmetro maior nunca deve ficar em cima de um disco de diâmetro menor.
